@@ -43,7 +43,10 @@
     background-color: rgb(0, 0, 0);
     padding-left: 3%;
   }
-  
+  footer{
+    padding: 60px;
+    text-align: center;
+  }
   /* .clearfix::after {
   content: "";
   clear: both;
