@@ -198,6 +198,9 @@
   .table2 td {
     width: 33%;
   }
+  .table2 img{
+    cursor: pointer;
+  }
   
   .table3 {
     width: 100%;
